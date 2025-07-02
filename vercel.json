@@ -1,0 +1,18 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "framework": "nextjs",
+  "installCommand": "npm install --legacy-peer-deps",
+  "env": {
+    "NEXT_PUBLIC_SUPABASE_URL": "@supabase_url",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "@supabase_anon_key",
+    "GOOGLE_GENERATIVE_AI_API_KEY": "@gemini_api_key"
+  },
+  "functions": {
+    "app/api/*/route.{js,ts}": {
+      "maxDuration": 30
+    }
+  },
+  "regions": ["iad1"],
+  "crons": []
+}
