@@ -10,8 +10,8 @@
   [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-AI-blue)](https://ai.google.dev/)
 
   <br />
-  
-  <img src="https://via.placeholder.com/800x400/1a1a1a/white?text=Classly+Dashboard+Preview" alt="Classly Dashboard" width="800" />
+
+  https://github.com/user-attachments/assets/f23ca431-3d68-4f81-8c58-99c68e2714c3
   
 </div>
 
